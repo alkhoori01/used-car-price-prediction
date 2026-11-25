@@ -1,0 +1,377 @@
+{
+  "year_range": [
+    1990,
+    2026
+  ],
+  "cylinders": [
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    8.0,
+    10.0,
+    12.0
+  ],
+  "categorical": {
+    "condition": [
+      "excellent",
+      "fair",
+      "good",
+      "like new",
+      "new",
+      "salvage",
+      "unknown"
+    ],
+    "fuel": [
+      "diesel",
+      "electric",
+      "gas",
+      "hybrid",
+      "other",
+      "unknown"
+    ],
+    "transmission": [
+      "automatic",
+      "manual",
+      "other",
+      "unknown"
+    ],
+    "drive": [
+      "4wd",
+      "fwd",
+      "rwd",
+      "unknown"
+    ],
+    "type": [
+      "bus",
+      "convertible",
+      "coupe",
+      "hatchback",
+      "mini-van",
+      "offroad",
+      "other",
+      "pickup",
+      "sedan",
+      "suv",
+      "truck",
+      "unknown",
+      "van",
+      "wagon"
+    ],
+    "paint_color": [
+      "black",
+      "blue",
+      "brown",
+      "custom",
+      "green",
+      "grey",
+      "orange",
+      "purple",
+      "red",
+      "silver",
+      "unknown",
+      "white",
+      "yellow"
+    ],
+    "title_status": [
+      "clean",
+      "lien",
+      "missing",
+      "parts only",
+      "rebuilt",
+      "salvage",
+      "unknown"
+    ],
+    "seller_type": [
+      "dealer",
+      "owner"
+    ],
+    "state": [
+      "ak",
+      "al",
+      "ar",
+      "az",
+      "ca",
+      "co",
+      "ct",
+      "dc",
+      "de",
+      "fl",
+      "ga",
+      "hi",
+      "ia",
+      "id",
+      "il",
+      "in",
+      "ks",
+      "ky",
+      "la",
+      "ma",
+      "md",
+      "me",
+      "mi",
+      "mn",
+      "mo",
+      "ms",
+      "mt",
+      "nc",
+      "nd",
+      "ne",
+      "nh",
+      "nj",
+      "nm",
+      "nv",
+      "ny",
+      "oh",
+      "ok",
+      "or",
+      "pa",
+      "ri",
+      "sc",
+      "sd",
+      "tn",
+      "tx",
+      "ut",
+      "va",
+      "vt",
+      "wa",
+      "wi",
+      "wv",
+      "wy"
+    ]
+  },
+  "manufacturers": [
+    "acura",
+    "alfa-romeo",
+    "aston-martin",
+    "audi",
+    "bmw",
+    "buick",
+    "cadillac",
+    "chevrolet",
+    "chrysler",
+    "dodge",
+    "ferrari",
+    "fiat",
+    "ford",
+    "gmc",
+    "harley-davidson",
+    "honda",
+    "hyundai",
+    "infiniti",
+    "jaguar",
+    "jeep",
+    "kia",
+    "land rover",
+    "lexus",
+    "lincoln",
+    "mazda",
+    "mercedes-benz",
+    "mercury",
+    "mini",
+    "mitsubishi",
+    "morgan",
+    "nissan",
+    "pontiac",
+    "porsche",
+    "ram",
+    "rover",
+    "saturn",
+    "subaru",
+    "tesla",
+    "toyota",
+    "volkswagen",
+    "volvo"
+  ],
+  "models_by_make": {
+    "acura": [
+      "mdx"
+    ],
+    "audi": [
+      "q5"
+    ],
+    "bmw": [
+      "328i",
+      "x3",
+      "x5"
+    ],
+    "cadillac": [
+      "escalade"
+    ],
+    "chevrolet": [
+      "1500",
+      "2500",
+      "3500",
+      "camaro",
+      "colorado",
+      "corvette",
+      "cruze",
+      "equinox",
+      "equinox lt",
+      "f250",
+      "malibu",
+      "silverado",
+      "silverado 1500",
+      "silverado 1500 lt",
+      "silverado 2500hd",
+      "suburban",
+      "tahoe",
+      "traverse",
+      "yukon"
+    ],
+    "chrysler": [
+      "pacifica"
+    ],
+    "dodge": [
+      "2500",
+      "3500",
+      "charger",
+      "durango",
+      "grand caravan"
+    ],
+    "ford": [
+      "1500",
+      "edge",
+      "escape",
+      "escape se",
+      "expedition",
+      "explorer",
+      "explorer xlt",
+      "f-150",
+      "f-250",
+      "f-350",
+      "f150",
+      "f150 supercrew cab",
+      "f250",
+      "focus",
+      "fusion",
+      "mustang",
+      "ranger",
+      "transit"
+    ],
+    "gmc": [
+      "1500",
+      "2500",
+      "3500",
+      "acadia",
+      "sierra",
+      "sierra 1500",
+      "suburban",
+      "terrain",
+      "tundra",
+      "yukon"
+    ],
+    "honda": [
+      "accord",
+      "civic",
+      "civic lx",
+      "cr-v",
+      "odyssey",
+      "pilot",
+      "sonata"
+    ],
+    "hyundai": [
+      "elantra",
+      "santa fe",
+      "sonata",
+      "tucson"
+    ],
+    "jeep": [
+      "cherokee",
+      "compass",
+      "grand cherokee",
+      "sierra",
+      "wrangler",
+      "wrangler unlimited"
+    ],
+    "kia": [
+      "optima",
+      "sorento",
+      "soul"
+    ],
+    "lexus": [
+      "rx 350"
+    ],
+    "mazda": [
+      "cx-5"
+    ],
+    "mercedes-benz": [
+      "c-class",
+      "e-class"
+    ],
+    "nissan": [
+      "altima",
+      "frontier",
+      "murano",
+      "pathfinder",
+      "rogue",
+      "sentra"
+    ],
+    "ram": [
+      "1500",
+      "2500",
+      "3500",
+      "sport"
+    ],
+    "rover": [
+      "sport"
+    ],
+    "subaru": [
+      "crosstrek",
+      "forester",
+      "impreza",
+      "legacy",
+      "outback"
+    ],
+    "tesla": [
+      "model 3"
+    ],
+    "toyota": [
+      "4runner",
+      "camry",
+      "camry le",
+      "corolla",
+      "highlander",
+      "pacifica",
+      "prius",
+      "rav4",
+      "rogue",
+      "sienna",
+      "tacoma",
+      "tacoma double cab",
+      "tundra"
+    ],
+    "volkswagen": [
+      "jetta",
+      "passat",
+      "tiguan"
+    ],
+    "volvo": [
+      "xc60",
+      "xc90"
+    ]
+  },
+  "ratio_low": 0.700999903311826,
+  "ratio_high": 1.4525722267375856,
+  "metrics": {
+    "MAE": 3469,
+    "R2": 0.84,
+    "median_pct_error": 16.5
+  },
+  "importance": {
+    "year": 0.2715,
+    "odometer": 0.1835,
+    "manufacturer": 0.0848,
+    "cylinders": 0.0683,
+    "fuel": 0.0596,
+    "type": 0.0593,
+    "drive": 0.039,
+    "state": 0.0372,
+    "condition": 0.0346,
+    "seller_type": 0.0246,
+    "model": 0.0198,
+    "title_status": 0.0162,
+    "paint_color": 0.0053,
+    "transmission": 0.0052
+  }
+}

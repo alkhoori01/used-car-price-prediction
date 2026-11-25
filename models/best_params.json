@@ -1,0 +1,15 @@
+{
+  "hgb": {
+    "m__min_samples_leaf": 20,
+    "m__max_iter": 400,
+    "m__max_depth": null,
+    "m__learning_rate": 0.1,
+    "m__l2_regularization": 0
+  },
+  "rf": {
+    "m__n_estimators": 200,
+    "m__min_samples_leaf": 2,
+    "m__max_features": 0.3,
+    "m__max_depth": 20
+  }
+}
