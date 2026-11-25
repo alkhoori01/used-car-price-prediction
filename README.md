@@ -15,8 +15,8 @@ Used-car dealers must price each vehicle they buy or list. Pricing too high leav
 ## Team
 | Member | GitHub | Role |
 |---|---|---|
-| Ahmed Masoud AlKhoori | [@alkhoori01](https://github.com/alkhoori01) | Business problem, dataset search, data cleaning, EDA and feature engineering, README |
-| Mansoor Abdulhakeem AlTamimi | [@Mansooralt](https://github.com/Mansooralt) | Modelling, tuning and evaluation, Streamlit app, documentation and deployment |
+| Ahmed Masoud AlKhoori | [@alkhoori01](https://github.com/alkhoori01) | Business problem, dataset search, data cleaning, EDA and feature engineering, README and deployment |
+| Mansoor Abdulhakeem AlTamimi | [@Mansooralt](https://github.com/Mansooralt) | Modelling, dataset search, tuning and evaluation, Streamlit app, documentation  |
 
 ## Dataset
 - **Name:** Craigslist Cars and Trucks Data
