@@ -2,8 +2,8 @@
 
 **Problem:** predicting used car prices for dealers (regression).
 **Requirements:** at least 200,000 rows, at least 20 columns, real data, a clear target, a licence that allows academic use.
-**Search terms used:** "used cars price", "car listings", "vehicle sales", "[ADD YOUR OWN TERMS]"
-**Sources checked:** Kaggle, [UCI, Google Dataset Search, Bayanat if you used them]. **Date:** 25-11-2026
+**Search terms used:** "used cars price", "car listings", "vehicle sales"
+**Sources checked:** Kaggle **Date:** 25-11-2026
 
 | Dataset | Source | Rows / columns | Licence | Decision | Reason |
 |---|---|---|---|---|---|
